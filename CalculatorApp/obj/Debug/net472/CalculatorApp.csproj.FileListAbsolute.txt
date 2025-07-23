@@ -1,0 +1,8 @@
+C:\VSPOJECT\calc\CalculatorApp\bin\Debug\net472\CalculatorApp.exe.config
+C:\VSPOJECT\calc\CalculatorApp\bin\Debug\net472\CalculatorApp.exe
+C:\VSPOJECT\calc\CalculatorApp\bin\Debug\net472\CalculatorApp.pdb
+C:\VSPOJECT\calc\CalculatorApp\obj\Debug\net472\CalculatorApp.csprojAssemblyReference.cache
+C:\VSPOJECT\calc\CalculatorApp\obj\Debug\net472\CalculatorApp.AssemblyInfoInputs.cache
+C:\VSPOJECT\calc\CalculatorApp\obj\Debug\net472\CalculatorApp.AssemblyInfo.cs
+C:\VSPOJECT\calc\CalculatorApp\obj\Debug\net472\CalculatorApp.exe
+C:\VSPOJECT\calc\CalculatorApp\obj\Debug\net472\CalculatorApp.pdb
